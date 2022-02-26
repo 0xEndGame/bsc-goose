@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
+      56: '0x078c01fBD1ea0eaa9F2b9513F20fb162B5789786',
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
@@ -185,7 +185,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // EGG-BUSD LP
+      56: '0x078c01fBD1ea0eaa9F2b9513F20fb162B5789786', // EGG-BUSD LP
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
@@ -202,7 +202,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // EGG-BUSD LP (BUSD-BUSD will ignore)
+      56: '0x078c01fBD1ea0eaa9F2b9513F20fb162B5789786', // EGG-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
